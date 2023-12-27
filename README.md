@@ -1,5 +1,5 @@
 # Housing-Price-Prediction-Bayesian-Analysis-using-Pyro
-The goal is to predict house prices using a Bayesian linear regression model implemented in Pyro and compare it with Simple Linear Regression
+The goal is to use Pyro to predict house prices with Bayesian linear regression, comparing it to Simple Linear Regression. Also, assess the impact of assuming Gamma priors for a Gamma-distributed dataset in the comparison.
 
 ## Software Architecture
 
