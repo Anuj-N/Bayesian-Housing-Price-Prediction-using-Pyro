@@ -63,7 +63,7 @@ The goal is to predict house prices using a Bayesian linear regression model imp
 1. **Open the Python Notebook:**
    - Open the provided Python Notebook on any Python environment, ideally Google Colab.
    - For the Bayesian Regression model,Run the [Bayesian](code-orig/BayesianRegression.ipynb).
-   - For the Gamma Model,Run the [Gamma](code-orig/BayesianRegression(with_Gamma).ipynb).
+   - For the Gamma Model,Run the [Gamma](code-orig/BayesianRegression(Gamma).ipynb).
 
 2. **Load the Dataset:**
    - Download the dataset from [Dataset](Dataset/california_housing_data.csv).
